@@ -10,7 +10,7 @@ This repository contains a collection of all projects and tasks implemented duri
 
 ### Projects
 
-- [Recipe page](./recipe-page/README.md)
+[Recipe page](./recipe-page/README.md)
 
 ## Run
 
